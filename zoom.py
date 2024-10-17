@@ -30,3 +30,5 @@ def optimal_zoom(resolution: float) -> str:
         print(f"Error: {e}")
         return zoom
     return zoom
+
+#I made some changes

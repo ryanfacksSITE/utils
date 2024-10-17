@@ -32,3 +32,4 @@ def optimal_zoom(resolution: float) -> str:
     return zoom
 
 #I made some changes
+#changes
